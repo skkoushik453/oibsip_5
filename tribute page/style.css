@@ -1,0 +1,28 @@
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+  }
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    background-color: aqua;
+  }
+  body {
+    background: linear-gradient(black,darkblue);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px ;
+    padding: 0px;
+    font-family: 'Arial', sans-serif;
+    color: #f5e3e3;
+    display: flex;
+  }
